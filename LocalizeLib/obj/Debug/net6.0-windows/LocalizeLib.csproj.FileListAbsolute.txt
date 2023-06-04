@@ -1,0 +1,17 @@
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\bin\Debug\net6.0-windows\LocalizeLib.deps.json
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\bin\Debug\net6.0-windows\LocalizeLib.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\bin\Debug\net6.0-windows\LocalizeLib.pdb
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\AllLanguages.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\Themes\EN_Dictionary.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\Themes\RU_Dictionary.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib_MarkupCompile.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.g.resources
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\refint\LocalizeLib.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\LocalizeLib.pdb
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\LocalizeLib\obj\Debug\net6.0-windows\ref\LocalizeLib.dll

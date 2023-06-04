@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resource Dictionary WPF Practical 8", "Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8.csproj", "{B723C4E0-7A54-45E1-9731-A7D3B748CCE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemesLib", "ThemesLib\ThemesLib.csproj", "{AB392E12-F6DE-4B06-8946-A9B3ACFA6794}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "De(Serialization)Lib", "De(Serialization)Lib\De(Serialization)Lib.csproj", "{57E49066-94E6-4317-9F15-7598B9B32CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizeLib", "LocalizeLib\LocalizeLib.csproj", "{571C2972-B3EA-4CCC-A4B9-14921ACA446C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B723C4E0-7A54-45E1-9731-A7D3B748CCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B723C4E0-7A54-45E1-9731-A7D3B748CCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B723C4E0-7A54-45E1-9731-A7D3B748CCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B723C4E0-7A54-45E1-9731-A7D3B748CCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB392E12-F6DE-4B06-8946-A9B3ACFA6794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB392E12-F6DE-4B06-8946-A9B3ACFA6794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB392E12-F6DE-4B06-8946-A9B3ACFA6794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB392E12-F6DE-4B06-8946-A9B3ACFA6794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E49066-94E6-4317-9F15-7598B9B32CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E49066-94E6-4317-9F15-7598B9B32CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E49066-94E6-4317-9F15-7598B9B32CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E49066-94E6-4317-9F15-7598B9B32CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571C2972-B3EA-4CCC-A4B9-14921ACA446C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571C2972-B3EA-4CCC-A4B9-14921ACA446C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571C2972-B3EA-4CCC-A4B9-14921ACA446C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571C2972-B3EA-4CCC-A4B9-14921ACA446C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F334014D-D89A-4779-ABA3-2CB73B9FD5FD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+﻿<Window x:Class="Resource_Dictionary_WPF_Practical_8.De_Serialization_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Resource_Dictionary_WPF_Practical_8"
+        mc:Ignorable="d"
+        Title="De_Serialization_Window" Height="400" Width="800">
+    <Grid Background="{DynamicResource MainBG}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="{StaticResource FillForm}" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        
+        <TextBlock Text="{StaticResource Name}" Margin="0,10,0,0" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1"/>
+        <TextBox x:Name="Name_TXT" Grid.Row="2" Height="30" Margin="10,0,10,0" Background="{DynamicResource Grid}"/>
+        
+        <TextBlock Text="{StaticResource Surname}" Margin="0,10,0,0" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3"/>
+        <TextBox Background="{DynamicResource Grid}" x:Name="Surname_TXT" Grid.Row="4" Height="30" Margin="10,0,10,0"/>
+
+        <TextBlock Text="{StaticResource Group}" Margin="0,10,0,0" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="5"/>
+        <TextBox Background="{DynamicResource Grid}" x:Name="Group_TXT" Grid.Row="6" Height="30" Margin="10,0,10,0"/>
+
+        <Button Background="{DynamicResource Secondary}" Foreground="{DynamicResource Primary}" Content="{StaticResource Serialize}" Grid.Row="7" Height="50" Click="Button_Click" Margin="5"/>
+
+
+        <TextBlock Text="{StaticResource OutputForm}" Grid.Column="2" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Button Grid.Column="2" Background="{DynamicResource Primary}" Foreground="{DynamicResource Secondary}" Content="{StaticResource Deserialize}" Grid.Row="7" Height="50" Margin="5" Click="Button_Click_1"/>
+        
+        <Button Grid.Row="8" Height="45" HorizontalAlignment="Left" Width="80" BorderThickness="2" BorderBrush="{DynamicResource Grid}" Background="{DynamicResource Primary}" Click="Button_Click_2">
+            <Image x:Name="Calendar_Icon" Source="/icons/стрелка влеов.png" />
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Cursor" Value="Hand" />
+                </Style>
+            </Button.Style>
+        </Button>
+
+    </Grid>
+
+
+</Window>

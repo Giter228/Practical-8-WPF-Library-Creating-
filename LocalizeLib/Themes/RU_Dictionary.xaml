@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="Greetings">Здравствуйте! Мы тут библиотеки создаём:</v:String>
+    <v:String x:Key="Button1">Библиотека Де/Сериализации</v:String>
+    <v:String x:Key="Button2">Библиотека с темами</v:String>
+    <v:String x:Key="RU">Русс.</v:String>
+    <v:String x:Key="EN">Англ.</v:String>
+    <v:String x:Key="MainText">Тему выбери</v:String>
+    <v:String x:Key="PurpleTheme">Фиолетовая тема</v:String>
+    <v:String x:Key="SpringTheme">Весенняя тема</v:String>
+    <v:String x:Key="AutumnTheme">Осенняя тема</v:String>
+    <v:String x:Key="SummerTheme">Летняя тема</v:String>
+    <v:String x:Key="WinterTheme">Зимняя тема</v:String>
+    <v:String x:Key="FillForm">Заполните форму студента</v:String>
+    <v:String x:Key="OutputForm">Выведите её</v:String>
+    <v:String x:Key="Serialize">Сериализовать</v:String>
+    <v:String x:Key="Deserialize">Десериализовать</v:String>
+    <v:String x:Key="Name">Имя:</v:String>
+    <v:String x:Key="Surname">Фамилия:</v:String>
+    <v:String x:Key="Group">Группа:</v:String>
+</ResourceDictionary>

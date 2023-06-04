@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Resource_Dictionary_WPF_Practical_8</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons\стрелка влеов.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\De(Serialization)Lib\De(Serialization)Lib.csproj" />
+    <ProjectReference Include="..\LocalizeLib\LocalizeLib.csproj" />
+    <ProjectReference Include="..\ThemesLib\ThemesLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons\стрелка влеов.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

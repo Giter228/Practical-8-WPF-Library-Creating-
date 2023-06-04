@@ -1,0 +1,35 @@
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.exe
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.deps.json
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.runtimeconfig.json
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.pdb
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8_MarkupCompile.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8_MarkupCompile.lref
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\App.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.g.resources
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.AssemblyInfo.cs
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\refint\Resource Dictionary WPF Practical 8.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.pdb
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.genruntimeconfig.cache
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\ref\Resource Dictionary WPF Practical 8.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resources\PurpleTheme.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\ThemesWindow.g.cs
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\ThemesWindow.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\ThemesLib.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\ThemesLib.pdb
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\Resource Dictionary WPF Practical 8.csproj.CopyComplete
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\De(Serialization)Window.g.cs
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\De(Serialization)Lib.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\De(Serialization)Lib.pdb
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\obj\Debug\net6.0-windows\De(Serialization)Window.baml
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\LocalizeLib.dll
+C:\Users\Максим\source\repos\Resource Dictionary WPF Practical 8\Resource Dictionary WPF Practical 8\bin\Debug\net6.0-windows\LocalizeLib.pdb

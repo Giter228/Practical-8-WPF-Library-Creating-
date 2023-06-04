@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XiNbtbfbn7lzPdqGkbaEfDZ2EvfQOEJ0MFtXB6mjqognovpbNmNc0vrrFSaIT7ZOpvvNlJU8OAMtD5yQ3wwdRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Максим\\source\\repos\\Resource Dictionary WPF Practical 8\\De(Serialization)Lib\\De(Serialization)Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Максим\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
